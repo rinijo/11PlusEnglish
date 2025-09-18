@@ -1,18 +1,5 @@
 # 11+ GL Comprehension Masterclass
 
-*A complete, modular teaching resource you can upload to GitHub as `comprehension-masterclass.md` or publish via GitHub Pages.*
-
----
-
-## How to use this resource
-
-* Teach **one module per week** or mix daily micro‑lessons.
-* Each module includes **What to teach**, **Examples**, **Exam tactics**, **Drills**, and **Mini assessments**.
-* Suited for **GL-style comprehension** (MCQ + short answers).
-* Print sections or keep this as an online reference.
-
----
-
 ## Module 1 — Figures of Speech & Language Devices (with Effects)
 
 ### 1. What are Figures of Speech?
